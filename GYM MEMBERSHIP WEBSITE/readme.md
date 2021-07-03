@@ -1,6 +1,6 @@
 # Module-2 Coding Assignment
 
-![BACKGROUND IMAGE](https://github.com/Devansh-DJ007/Sample/edit/master/GYM%20MEMBERSHIP%20WEBSITE/IMAGES/bg.png)
+![BACKGROUND IMAGE](https://github.com/Devansh-DJ007/Sample/edit/master/GYM%20MEMBERSHIP%20WEBSITE/IMAGES/bg.jpg)
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
